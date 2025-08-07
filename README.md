@@ -3,13 +3,11 @@ LangChain ReAct agent using Groq's LLaMA3 to answer questions with DuckDuckGo se
 
 ---
 
-### 📄 `README.md`
 
-````markdown
 # 🧠 ReAct Agent with Groq, Weather API & Search
 
 This project implements a LangChain ReAct agent powered by Groq's LLaMA3 model. It combines real-time DuckDuckGo search and live weather data via the WeatherStack API. You can run it as a Python CLI or via a Streamlit web app.
-````
+
 ---
 
 ## 🔧 Features
