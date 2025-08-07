@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### 3. Set up `.env` file
 
 ```env
-OPENAI_API_KEY=your_groq_api_key
+GROQ_API_KEY=your_groq_api_key
 ```
 
 > Note: You may hardcode the key directly inside the script (not recommended for production).
